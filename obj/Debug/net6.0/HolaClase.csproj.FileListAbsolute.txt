@@ -1,0 +1,15 @@
+C:\Users\nicol\Desktop\PROG\HolaClase\bin\Debug\net6.0\HolaClase.exe
+C:\Users\nicol\Desktop\PROG\HolaClase\bin\Debug\net6.0\HolaClase.deps.json
+C:\Users\nicol\Desktop\PROG\HolaClase\bin\Debug\net6.0\HolaClase.runtimeconfig.json
+C:\Users\nicol\Desktop\PROG\HolaClase\bin\Debug\net6.0\HolaClase.dll
+C:\Users\nicol\Desktop\PROG\HolaClase\bin\Debug\net6.0\ref\HolaClase.dll
+C:\Users\nicol\Desktop\PROG\HolaClase\bin\Debug\net6.0\HolaClase.pdb
+C:\Users\nicol\Desktop\PROG\HolaClase\obj\Debug\net6.0\HolaClase.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\PROG\HolaClase\obj\Debug\net6.0\HolaClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\PROG\HolaClase\obj\Debug\net6.0\HolaClase.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\PROG\HolaClase\obj\Debug\net6.0\HolaClase.AssemblyInfo.cs
+C:\Users\nicol\Desktop\PROG\HolaClase\obj\Debug\net6.0\HolaClase.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\PROG\HolaClase\obj\Debug\net6.0\HolaClase.dll
+C:\Users\nicol\Desktop\PROG\HolaClase\obj\Debug\net6.0\ref\HolaClase.dll
+C:\Users\nicol\Desktop\PROG\HolaClase\obj\Debug\net6.0\HolaClase.pdb
+C:\Users\nicol\Desktop\PROG\HolaClase\obj\Debug\net6.0\HolaClase.genruntimeconfig.cache
